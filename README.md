@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danwebman
 - 👀 I’m interested in ... SEO, Web Projects
-- 🌱 I’m currently learning ... Azure
+- 🌱 I’m currently learning ... GA4
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me . Here
 <!---
